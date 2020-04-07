@@ -31,9 +31,9 @@
          return 2020 - this.dob;
      }
 };
-
+/* 
  const Eric = Haoran.year; //reference to Haoran
  Eric.name = "Eric";
  const Christian = {};
  Christian.dob = Haoran.dob
- Christian.dob = 2003;
+ Christian.dob = 2003; */
